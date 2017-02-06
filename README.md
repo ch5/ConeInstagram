@@ -4,11 +4,11 @@ This is simple example integrating rails 5 and Bootstrap
 CRUD implementation with photos.
 
 ### Features gem ###
-masonry-rails
-haml
-bootsrap3
-devise
-simple-form
-paperclip
-acts-as-votable
+1. masonry-rails
+2. haml
+3. bootsrap3
+4. devise
+5. simple-form
+6. paperclip
+7. acts-as-votable
 
