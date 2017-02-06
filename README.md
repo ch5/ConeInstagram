@@ -1,3 +1,14 @@
-# ConeInstagram
+Clone Simple apps instagram
+===========================
+This is simple example integrating rails 5 and Bootstrap 
+CRUD implementation with photos.
 
-## With simple fiture
+### Features gem ###
+masonry-rails
+haml
+bootsrap3
+devise
+simple-form
+paperclip
+acts-as-votable
+
