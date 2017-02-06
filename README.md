@@ -12,3 +12,5 @@ CRUD implementation with photos.
 6. paperclip
 7. acts-as-votable
 
+### Result ###
+![Rails Clone Instagram](https://github.com/ch5/ConeInstagram/blob/master/Image_ex/Index_instagram.png)
